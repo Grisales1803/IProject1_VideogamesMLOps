@@ -20,7 +20,9 @@ To tackle this, we're starting from scratch, taking on the role of a Data Engine
 
 To accomplish our mission, we will follow these steps according to our MLOps Role:
 
-
+<p align="center">
+  <img src="ImagesREADME/MLOps_Process.png" alt="Image1" width="800" height="600">
+</p>
 
 ## *2. Dataset Description & Dictionary*
 
