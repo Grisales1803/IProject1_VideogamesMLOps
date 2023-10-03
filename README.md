@@ -1,10 +1,6 @@
 <img src="https://media.istockphoto.com/id/1411413599/photo/pro-gamer-team-computer-setup-at-video-game-esport-championship-with-neon-keyboard-video-game.webp?b=1&s=170667a&w=0&k=20&c=V6ncicfiLtn9arBLTuPJdEWxHeiQuueyD6NbJaucWiU=" alt="VG Image" width="1010" height="200">
 
-<br>
-</br>
-
 #  **<p align="center">Video Games - Machine Learning & Operations Model</p>** 
-
 
 # <p align="center">Enhancing Gaming Experiences with a Recommendation System</p>
 
