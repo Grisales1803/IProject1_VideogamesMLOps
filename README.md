@@ -21,7 +21,7 @@ To tackle this, we're starting from scratch, taking on the role of a Data Engine
 To accomplish our mission, we will follow these steps according to our MLOps Role:
 
 <p align="center">
-  <img src="ImagesREADME/MLOps_Process.png" alt="Image1" width="800" height="600">
+  <img src="ImagesREADME/MLOps_Process.jpg" alt="Image1" width="800" height="600">
 </p>
 
 ## *2. Dataset Description & Dictionary*
@@ -316,3 +316,22 @@ In this project of Video Games Recommendation System we found out the following:
 - **User Education:** Educate users on how to make the best use of the recommendation system. Offer guidance on refining recommendations and understanding the system's capabilities and limitations.
 
 Finally, while the project has achieved its minimum viable product (MVP) and delivered a functional recommendation system, there is room for further improvement and expansion. User-centric enhancements, data quality improvements, and continuous evaluation will be critical in ensuring the recommendation system's long-term success in enhancing gaming experiences on the Steam platform.
+
+## *11. Requirements*
+
+- Python.
+- FastAPI.
+- Uvicorn.
+- Pandas.
+- Numpy.
+- Scikit-Learn.
+- Nearpy.
+- Pyarrow.
+- Matplotlib.
+- Render.
+
+## *12. Author*
+
+- **Juan Camilo Grisales López**
+- Mail: grisales1803@gmail.com
+- Linkedin: [https://www.linkedin.com/in/grisales1803/](https://www.linkedin.com/in/grisales1803/)
