@@ -6,7 +6,7 @@
 
 ## *1. Introduction & Context*
 
-We've recently joined Steam, a global gaming platform, as a Data Scientist. Our exciting mission is to create our very first machine learning model to address a critical business problem: Steam urgently needs a user-centric video game recommendation system. However, as we dive into the data, we discover its lack of maturity, with raw, nested data and no automated processes for updating new products, among other challenges, making our job seem daunting.
+I've recently joined Steam, a global gaming platform, as a Data Scientist. Our exciting mission is to create our very first machine learning model to address a critical business problem: Steam urgently needs a user-centric video game recommendation system. However, as we dive into the data, we discover its lack of maturity, with raw, nested data and no automated processes for updating new products, among other challenges, making our job seem daunting.
 
 To tackle this, we're starting from scratch, taking on the role of a Data Engineer to swiftly build a Minimum Viable Product (MVP) that will meet the project's completion deadline. It's a demanding task that might feel overwhelming at times, but we're determined to follow the conceptual path and overcome any obstacles along the way. Our journey begins with courage and determination. 💪🎮
 
